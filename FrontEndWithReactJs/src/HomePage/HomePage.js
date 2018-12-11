@@ -13,8 +13,8 @@ import PageHome from "../Components/PageHome"
 import GrandTab from "../Components/Home/tabs/GrandTab";
  class HomePage extends React.Component {
   
-
-
+  
+  
     render() {
         const { user, users } = this.props;
         return (
