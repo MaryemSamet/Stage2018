@@ -1,0 +1,11 @@
+/* For demo */
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 550px;
+  background: #aec6f1;
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
