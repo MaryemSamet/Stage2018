@@ -58,7 +58,7 @@
   "reqwest": "2.0.5",
   "semantic-ui-react": "0.82.1",
   "supports-color": "5.4.0",
-  "yarn": "^1.12.3"
+  "yarn": "^1.22.0"
  },
  "version": "0.1.0",
  "private": true,
